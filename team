@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="en" class="h-100 ">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="generator" content="SonicJs">
+    <meta name="version" content="0.5.4">
+    <link rel="icon" href="/assets/img/favicon.ico">
+    <title>Team</title>
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+    <style>
+      body,
+      p {
+        font-family: 'Lato',
+        serif !important;
+      }
+  
+      h1,
+      h2,
+      h3,
+      h4,
+      h5,
+      h6 {
+        font-family: 'Roboto',
+        serif;
+      }
+    </style>
+    
+    <link href="/assets/css/combined-0.5.4.css" rel="stylesheet">
+
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-YX1BPVYNLL"></script>
+                <script>
+                window.dataLayer = window.dataLayer || [];
+                function gtag() { dataLayer.push(arguments); }
+                gtag('js', new Date());
+
+                gtag('config', 'G-YX1BPVYNLL');
+                </script>
+
+  </head>
+
+  <body class="d-flex flex-column h-100">
+    
+    <input type="hidden" id="page-id" name="page-id"  value="e3109e4b-d412-47da-8255-e856d4aaf6b0">
+    <input type="hidden" id="sessionID" value="Uj7cJ9haW29Odkr0LoLDCmty6SSXpI28"/>
+    <input type="hidden" id="theme"  value="bootstrap5"/>
+
+<header>
+
+  <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="/">
+    <div style="" class="mr-md-auto">
+      <img
+        src="/assets/uploads/famlu-logo-white-300.png"
+        alt=""
+        width="120px"
+      />
+    </div>
+  </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+          <ul class="navbar-nav me-auto mb-2 mb-md-0">
+  
+            <li class="nav-item ">
+              <a class="nav-link  " href="/"
+                >
+                Home
+                <span class="sr-only">(current)</span></a>
+      
+            </li>
+            <li class="nav-item ">
+              <a class="nav-link  " href="/blog"
+                >
+                Blog
+                <span class="sr-only">(current)</span></a>
+      
+            </li>
+            <li class="nav-item ">
+              <a class="nav-link  " href="/faqs"
+                >
+                Faqs
+                <span class="sr-only">(current)</span></a>
+      
+            </li>
+            <li class="nav-item ">
+              <a class="nav-link  " href="/about"
+                >
+                About
+                <span class="sr-only">(current)</span></a>
+      
+            </li>
+            <li class="nav-item ">
+              <a class="nav-link  " href="/contact"
+                >
+                Contact
+                <span class="sr-only">(current)</span></a>
+      
+            </li>
+            <li class="nav-item ">
+              <a class="nav-link  " href="/signup"
+                >
+                Sign Up
+                <span class="sr-only">(current)</span></a>
+      
+            </li>
+  
+          </ul>
+          <!-- <form class="d-flex">
+            <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+            <button class="btn btn-outline-success" type="submit">Search</button>
+          </form> -->
+        </div>
+      </div>
+    </nav>
+</header>
+
+<main class="flex-shrink-0">
+
+
+  <section class="jumbotron-fluid hero no-margin">
+    <div class="dark-fade">
+        <div class='container'>
+            <div class='row'>
+                <div class='col'>
+                    <h1>Meet the Team</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section data-id='3b4712e8-5730-4934-a28f-0a419427e55e' class="jumbotron-fluid pb"><div class="section-overlay"><div class="container"><div class='row'><div id='undefined' class='col-md-8'><div class=" page-template-region mb-2" data-id="1f5965e7-e101-4fcb-bbff-32c12ba1d3b6" data-module="PAGE-TEMPLATES">PAGE TEMPLATE REGION START</div><div class="module" style="" data-id="d3153f1f-d382-43f2-b016-51318229fb3a" data-module="HTML" data-content-type="html" 
+      data-template-region=true data-template-page=true><h3>Doug Campbell <i>Founder</i>  </h3><p style="margin-left:0px;">Starting out in the professional world in 1995, Doug worked as a software developer at Honeywell Aerospace in Phoenix. After experience in Phoenix, Campbell set out for Lake Forest, California. Joining Black &amp; Decker in 1999, Doug focused on web-based software. This eventually turned Doug onto his side project, Famlu, in 2004. In 2007 Doug left his fulltime job, and committed himself to growing Famlu organically fulltime. <a href="/about">Click here</a> to learn more about Famlu's history.</p><p style="margin-left:0px;">In his free time, Doug enjoys spending time with his wife and two daughters in Irvine, California. He is an avid mountain biker and enjoys working out daily as well as eating a healthy vegetarian diet. Doug has a large extended family spread across the globe and uses Famlu to keep connected to his family as well as aid in the planning of his family’s annual family reunion</p><h3>Mike Carter <i>Web Architect</i></h3><p style="margin-left:0px;">As a graduate of UC Berkeley School of Information, Mike Carter studied web architecture. With his passion for web architecture, he started out working freelance in the industry. Campbell saw Carter’s savvy web designs and brought him on board in 2008.</p><p style="margin-left:0px;">Mike enjoys spending his personal time reading and cooking. His favorite book is a childhood favorite, Enders Game, and he makes a mean vegetarian lasagna. Mike connects with his parents and grandparents, living in New York and Ohio, weekly using Famlu.</p><h3>Darren Claire  <i>Web Developer</i></h3><p style="margin-left:0px;">As a native of Central Florida, Darren Claire first pursued his web development passions at Full Sail University. After graduating, he worked his way up from an entry-level web developer in 2001 to the primary web developer for Famlu.</p><p style="margin-left:0px;">Darren grew up on the east coast, but loves the west coast lifestyle. He spends his free time exploring the coast of California, and taking daytrips to areas he has yet to discover. Darren Claire loves travelling home for a weekend with his family in Orlando, Florida—with a trip to Disney World, too. When he can’t get away from California for a visit, he reunites with his large family using Famlu.</p><h3>Lauren Kasteler  <i>Web Designer/Front End Developer</i></h3><p style="margin-left:0px;">Working as a web designer is something Lauren has done since she had her very first computer and dial-up internet connection. She made a career for herself with extensive freelance work, and perfected her skills with study at Platt College in San Diego, California. With her broad portfolio and academic background, Lauren creates innovative designs for Famlu.</p><p style="margin-left:0px;">Lauren loves designing for Famlu, but also enjoys modern abstract designs as well. Her work has been shown in some galleries of California, and she is a passionate artist. Both her sister and brother are artists as well. They reside in Chicago, and Lauren keeps updated on their creative endeavors through Famlu reunions.</p><h3>Christi DiCiurcio <i> Marketing Manager</i></h3><p style="margin-left:0px;">Christi has extensive marketing experience, working for a variety of agencies in the Irvine, California area. Her keen understanding of marketing is attributed to years of successful account planning and strategizing. Our brand and image is maintained and spread by Christi.</p><p style="margin-left:0px;">Christi’s strong networking skills make her a great marketing manager. Christi is constantly networking, and is a member of many local organizations. She enjoys practicing yoga and meditation in her spare time. She feels this is a healing ritual that is important to anyone in a fast-paced professional position. Christi connects with her daughter using Famlu.</p><h3>Kerry Doyle <i>Customer Service</i></h3><p style="margin-left:0px;">Kerry specializes in customer services. Striving to address any inquiries within just a few business hours or even sooner, Kerry helps ensure Famlu customers’ happiness. Kerry has extensive experience with customer service issues with web-based technologies, and is ready to take on any new challenge.</p><p style="margin-left:0px;">Kerry Doyle loves living in Irvine, California. He spends his personal time with his wife and child. Some of their favorite pastimes include attending the San Jaoquin Wildlife Sanctuary and The Irvine Museum. Kerry uses Famlu to allow his parents and in-laws to regularly visit with their grandson.</p><h3>Ivan Bradley  <i>Administrative Assistant/Web Analytics</i></h3><p style="margin-left:0px;">Ivan keeps all the details of Famlu in order. He regularly assesses the administrative needs of our company, while completing web analytics to ensure success. Ivan is currently working on his MBA, and he brings his cutting-edge academic knowledge and extensive experience to the Famlu team.</p><p style="margin-left:0px;">Ivan loves learning about new web trends, and tactics to better address the needs of a business. In his free time, he continues his education pursuing an MBA. Ivan enjoys ultimate Frisbee and spending Saturdays at the dog park with his Labrador, Sandy. Ivan uses Famlu to keep in touch with his family in Europe.</p><p style="margin-left:97.5px;">&nbsp;</p>
+</div><div class="page-template-region mt-2" data-id="1f5965e7-e101-4fcb-bbff-32c12ba1d3b6" data-module="PAGE-TEMPLATES">PAGE TEMPLATE REGION END</div></div><div id='undefined' class='col-md-4'><div class="module-template" style="" data-id="8a42ebf9-c4e2-4ade-8d76-34d042815ef7" data-module="TEXT" data-content-type="text" 
+      data-template-region=false data-template-page=true><div class=""><h3>About Us Menu</h3>
+<ul>
+<li><a href="/about">About Us</a></li>
+<li><a href="/team">Meet the Team</a></li>
+<li><a href="/service-availability">Service Availability</a></li>
+
+</ul></div>
+</div></div></div></div></div></section>
+
+</main>
+
+<footer class="footer mt-auto py-3 bg-light">
+  <div class="container text-center">
+    <span class="text-muted"><a href="/privacy">Privacy Policy</a> | <a href="/terms">Terms & Conditions</a>
+    </span>
+  </div>
+</footer>
+
+<script src="/assets/js/combined-0.5.4.js"></script>
+      
+  </body>
+</html>

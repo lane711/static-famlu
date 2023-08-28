@@ -1,0 +1,379 @@
+<!doctype html>
+<html lang="en" class="h-100 ">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="generator" content="SonicJs">
+    <meta name="version" content="0.5.4">
+    <link rel="icon" href="/assets/img/favicon.ico">
+    <title>FAQs</title>
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+    <style>
+      body,
+      p {
+        font-family: 'Lato',
+        serif !important;
+      }
+  
+      h1,
+      h2,
+      h3,
+      h4,
+      h5,
+      h6 {
+        font-family: 'Roboto',
+        serif;
+      }
+    </style>
+    
+    <link href="/assets/css/combined-0.5.4.css" rel="stylesheet">
+
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-YX1BPVYNLL"></script>
+                <script>
+                window.dataLayer = window.dataLayer || [];
+                function gtag() { dataLayer.push(arguments); }
+                gtag('js', new Date());
+
+                gtag('config', 'G-YX1BPVYNLL');
+                </script>
+
+  </head>
+
+  <body class="d-flex flex-column h-100">
+    
+    <input type="hidden" id="page-id" name="page-id"  value="cad4620a-2fe7-4946-b163-40f80a96ae96">
+    <input type="hidden" id="sessionID" value="Uj7cJ9haW29Odkr0LoLDCmty6SSXpI28"/>
+    <input type="hidden" id="theme"  value="bootstrap5"/>
+
+<header>
+
+  <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="/">
+    <div style="" class="mr-md-auto">
+      <img
+        src="/assets/uploads/famlu-logo-white-300.png"
+        alt=""
+        width="120px"
+      />
+    </div>
+  </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+          <ul class="navbar-nav me-auto mb-2 mb-md-0">
+  
+            <li class="nav-item ">
+              <a class="nav-link  " href="/"
+                >
+                Home
+                <span class="sr-only">(current)</span></a>
+      
+            </li>
+            <li class="nav-item ">
+              <a class="nav-link  " href="/blog"
+                >
+                Blog
+                <span class="sr-only">(current)</span></a>
+      
+            </li>
+            <li class="nav-item ">
+              <a class="nav-link active " href="/faqs"
+                >
+                Faqs
+                <span class="sr-only">(current)</span></a>
+      
+            </li>
+            <li class="nav-item ">
+              <a class="nav-link  " href="/about"
+                >
+                About
+                <span class="sr-only">(current)</span></a>
+      
+            </li>
+            <li class="nav-item ">
+              <a class="nav-link  " href="/contact"
+                >
+                Contact
+                <span class="sr-only">(current)</span></a>
+      
+            </li>
+            <li class="nav-item ">
+              <a class="nav-link  " href="/signup"
+                >
+                Sign Up
+                <span class="sr-only">(current)</span></a>
+      
+            </li>
+  
+          </ul>
+          <!-- <form class="d-flex">
+            <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+            <button class="btn btn-outline-success" type="submit">Search</button>
+          </form> -->
+        </div>
+      </div>
+    </nav>
+</header>
+
+<main class="flex-shrink-0">
+
+
+  <section class="jumbotron-fluid hero no-margin">
+    <div class="dark-fade">
+        <div class='container'>
+            <div class='row'>
+                <div class='col'>
+                    <h1>FAQs</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section data-id='d4611de1-eb89-4467-8f08-a7abd90eb05c' class="jumbotron-fluid pb"><div class="section-overlay"><div class="container"><div class='row'><div id='undefined' class='col'><div class="module" style="" data-id="d1b0c8a6-7177-4a35-af11-ed7c36c0c874" data-module="ACCORDIAN" data-content-type="accordian" 
+      data-template-region=false data-template-page=false><div class="accordion" id="accordionExample">
+
+    <div class="accordion-item">
+      <h2 class="accordion-header" id="headingd1b0c8a6-7177-4a35-af11-ed7c36c0c874-0">
+        <button
+          class="accordion-button"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#collapsed1b0c8a6-7177-4a35-af11-ed7c36c0c874-0"
+          aria-expanded="false"
+          aria-controls="collapsed1b0c8a6-7177-4a35-af11-ed7c36c0c874-0"
+        >
+          WHAT IS A PRIVATE FAMILY WEBSITE?
+        </button>
+      </h2>
+      <div
+        id="collapsed1b0c8a6-7177-4a35-af11-ed7c36c0c874-0"
+        class="accordion-collapse collapse"
+        aria-labelledby="headingd1b0c8a6-7177-4a35-af11-ed7c36c0c874-0"
+        data-bs-parent="#accordionExample"
+      >
+        <div class="accordion-body">
+          <p><span style="background-color: rgb(255, 255, 255); color: rgb(119, 119, 119);">Its like your own private Facebook that only family members that you invite can join. You don’t have to worry about non-family members accessing your families personal information.</span></p>
+        </div>
+      </div>
+    </div>
+
+    <div class="accordion-item">
+      <h2 class="accordion-header" id="headingd1b0c8a6-7177-4a35-af11-ed7c36c0c874-1">
+        <button
+          class="accordion-button"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#collapsed1b0c8a6-7177-4a35-af11-ed7c36c0c874-1"
+          aria-expanded="false"
+          aria-controls="collapsed1b0c8a6-7177-4a35-af11-ed7c36c0c874-1"
+        >
+          HOW CAN I TRY OUT FAMLU?
+        </button>
+      </h2>
+      <div
+        id="collapsed1b0c8a6-7177-4a35-af11-ed7c36c0c874-1"
+        class="accordion-collapse collapse"
+        aria-labelledby="headingd1b0c8a6-7177-4a35-af11-ed7c36c0c874-1"
+        data-bs-parent="#accordionExample"
+      >
+        <div class="accordion-body">
+          <p>Famlu is free to try. Upgrade only when you are ready. See our plans for more info.</p><p><br></p>
+        </div>
+      </div>
+    </div>
+
+    <div class="accordion-item">
+      <h2 class="accordion-header" id="headingd1b0c8a6-7177-4a35-af11-ed7c36c0c874-2">
+        <button
+          class="accordion-button"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#collapsed1b0c8a6-7177-4a35-af11-ed7c36c0c874-2"
+          aria-expanded="false"
+          aria-controls="collapsed1b0c8a6-7177-4a35-af11-ed7c36c0c874-2"
+        >
+          HOW MUCH DOES IT COST?
+        </button>
+      </h2>
+      <div
+        id="collapsed1b0c8a6-7177-4a35-af11-ed7c36c0c874-2"
+        class="accordion-collapse collapse"
+        aria-labelledby="headingd1b0c8a6-7177-4a35-af11-ed7c36c0c874-2"
+        data-bs-parent="#accordionExample"
+      >
+        <div class="accordion-body">
+          <p>Free to try. If you decide to upgrade its just $12 per month or $67 per year.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="accordion-item">
+      <h2 class="accordion-header" id="headingd1b0c8a6-7177-4a35-af11-ed7c36c0c874-3">
+        <button
+          class="accordion-button"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#collapsed1b0c8a6-7177-4a35-af11-ed7c36c0c874-3"
+          aria-expanded="false"
+          aria-controls="collapsed1b0c8a6-7177-4a35-af11-ed7c36c0c874-3"
+        >
+          WHY ISN’T IT FREE?
+        </button>
+      </h2>
+      <div
+        id="collapsed1b0c8a6-7177-4a35-af11-ed7c36c0c874-3"
+        class="accordion-collapse collapse"
+        aria-labelledby="headingd1b0c8a6-7177-4a35-af11-ed7c36c0c874-3"
+        data-bs-parent="#accordionExample"
+      >
+        <div class="accordion-body">
+          <p>Some companies in our industry offer their product for free in order to gain a large member base and then suddenly change to a paid model, forcing all existing members to pay in order to keep their site.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="accordion-item">
+      <h2 class="accordion-header" id="headingd1b0c8a6-7177-4a35-af11-ed7c36c0c874-4">
+        <button
+          class="accordion-button"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#collapsed1b0c8a6-7177-4a35-af11-ed7c36c0c874-4"
+          aria-expanded="false"
+          aria-controls="collapsed1b0c8a6-7177-4a35-af11-ed7c36c0c874-4"
+        >
+          DOES EACH FAMILY MEMBER HAVE TO PAY?
+        </button>
+      </h2>
+      <div
+        id="collapsed1b0c8a6-7177-4a35-af11-ed7c36c0c874-4"
+        class="accordion-collapse collapse"
+        aria-labelledby="headingd1b0c8a6-7177-4a35-af11-ed7c36c0c874-4"
+        data-bs-parent="#accordionExample"
+      >
+        <div class="accordion-body">
+          <p>Nope! One person pays and all invited members join for free. Your site allows for unlimited members and unlimited uploads.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="accordion-item">
+      <h2 class="accordion-header" id="headingd1b0c8a6-7177-4a35-af11-ed7c36c0c874-5">
+        <button
+          class="accordion-button"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#collapsed1b0c8a6-7177-4a35-af11-ed7c36c0c874-5"
+          aria-expanded="false"
+          aria-controls="collapsed1b0c8a6-7177-4a35-af11-ed7c36c0c874-5"
+        >
+          WHO ARE YOUR COMPETITORS?
+        </button>
+      </h2>
+      <div
+        id="collapsed1b0c8a6-7177-4a35-af11-ed7c36c0c874-5"
+        class="accordion-collapse collapse"
+        aria-labelledby="headingd1b0c8a6-7177-4a35-af11-ed7c36c0c874-5"
+        data-bs-parent="#accordionExample"
+      >
+        <div class="accordion-body">
+          <p>We have quite a few direct competitors. We do an in-depth analysis of each of our major competitors every few month to make sure we’re alway at least one step ahead. In fact, we maintain and publish a full list of all major family website services including details about each. We are also often referred to as a safe and private alternative to Facebook for families.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="accordion-item">
+      <h2 class="accordion-header" id="headingd1b0c8a6-7177-4a35-af11-ed7c36c0c874-6">
+        <button
+          class="accordion-button"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#collapsed1b0c8a6-7177-4a35-af11-ed7c36c0c874-6"
+          aria-expanded="false"
+          aria-controls="collapsed1b0c8a6-7177-4a35-af11-ed7c36c0c874-6"
+        >
+          WHAT ABOUT PRIVACY?
+        </button>
+      </h2>
+      <div
+        id="collapsed1b0c8a6-7177-4a35-af11-ed7c36c0c874-6"
+        class="accordion-collapse collapse"
+        aria-labelledby="headingd1b0c8a6-7177-4a35-af11-ed7c36c0c874-6"
+        data-bs-parent="#accordionExample"
+      >
+        <div class="accordion-body">
+          <p>Ensuring the privacy of your families personal information is one of our most important objectives. We go to great length to ensure that your data in safe and secure.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="accordion-item">
+      <h2 class="accordion-header" id="headingd1b0c8a6-7177-4a35-af11-ed7c36c0c874-7">
+        <button
+          class="accordion-button"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#collapsed1b0c8a6-7177-4a35-af11-ed7c36c0c874-7"
+          aria-expanded="false"
+          aria-controls="collapsed1b0c8a6-7177-4a35-af11-ed7c36c0c874-7"
+        >
+          WHAT ABOUT SECURITY?
+        </button>
+      </h2>
+      <div
+        id="collapsed1b0c8a6-7177-4a35-af11-ed7c36c0c874-7"
+        class="accordion-collapse collapse"
+        aria-labelledby="headingd1b0c8a6-7177-4a35-af11-ed7c36c0c874-7"
+        data-bs-parent="#accordionExample"
+      >
+        <div class="accordion-body">
+          <p>Securing your site from hackers and the like has been a key component of our service from day one. Our lead architect formerly oversaw the security aspect of all public facing websites and web portals for a large banking institution and we use the same tools and technologies to ensure your data remains secure.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="accordion-item">
+      <h2 class="accordion-header" id="headingd1b0c8a6-7177-4a35-af11-ed7c36c0c874-8">
+        <button
+          class="accordion-button"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#collapsed1b0c8a6-7177-4a35-af11-ed7c36c0c874-8"
+          aria-expanded="false"
+          aria-controls="collapsed1b0c8a6-7177-4a35-af11-ed7c36c0c874-8"
+        >
+          WHO CREATED FAMLU AND WHY?
+        </button>
+      </h2>
+      <div
+        id="collapsed1b0c8a6-7177-4a35-af11-ed7c36c0c874-8"
+        class="accordion-collapse collapse"
+        aria-labelledby="headingd1b0c8a6-7177-4a35-af11-ed7c36c0c874-8"
+        data-bs-parent="#accordionExample"
+      >
+        <div class="accordion-body">
+          <p>You can read all about our founder and our team here. You can read all about our company history, mission, and values here.</p>
+        </div>
+      </div>
+    </div>
+</div></div></div></div></div></div></section>
+
+</main>
+
+<footer class="footer mt-auto py-3 bg-light">
+  <div class="container text-center">
+    <span class="text-muted"><a href="/privacy">Privacy Policy</a> | <a href="/terms">Terms & Conditions</a>
+    </span>
+  </div>
+</footer>
+
+<script src="/assets/js/combined-0.5.4.js"></script>
+      
+  </body>
+</html>

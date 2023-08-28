@@ -1,0 +1,175 @@
+<!doctype html>
+<html lang="en" class="h-100 ">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="generator" content="SonicJs">
+    <meta name="version" content="0.5.4">
+    <link rel="icon" href="/assets/img/favicon.ico">
+    <title>Press Releases</title>
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+    <style>
+      body,
+      p {
+        font-family: 'Lato',
+        serif !important;
+      }
+  
+      h1,
+      h2,
+      h3,
+      h4,
+      h5,
+      h6 {
+        font-family: 'Roboto',
+        serif;
+      }
+    </style>
+    
+    <link href="/assets/css/combined-0.5.4.css" rel="stylesheet">
+
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-YX1BPVYNLL"></script>
+                <script>
+                window.dataLayer = window.dataLayer || [];
+                function gtag() { dataLayer.push(arguments); }
+                gtag('js', new Date());
+
+                gtag('config', 'G-YX1BPVYNLL');
+                </script>
+
+  </head>
+
+  <body class="d-flex flex-column h-100">
+    
+    <input type="hidden" id="page-id" name="page-id"  value="400a02bf-35dc-49dc-943f-2fa70cfe08c0">
+    <input type="hidden" id="sessionID" value="Nf3ppMlBTP5toqHZasPAkpDijC7BFHa4"/>
+    <input type="hidden" id="theme"  value="bootstrap5"/>
+
+<header>
+
+  <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="/">
+    <div style="" class="mr-md-auto">
+      <img
+        src="/assets/uploads/famlu-logo-white-300.png"
+        alt=""
+        width="120px"
+      />
+    </div>
+  </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+          <ul class="navbar-nav me-auto mb-2 mb-md-0">
+  
+            <li class="nav-item ">
+              <a class="nav-link  " href="/"
+                >
+                Home
+                <span class="sr-only">(current)</span></a>
+      
+            </li>
+            <li class="nav-item ">
+              <a class="nav-link  " href="/blog"
+                >
+                Blog
+                <span class="sr-only">(current)</span></a>
+      
+            </li>
+            <li class="nav-item ">
+              <a class="nav-link  " href="/faqs"
+                >
+                Faqs
+                <span class="sr-only">(current)</span></a>
+      
+            </li>
+            <li class="nav-item ">
+              <a class="nav-link  " href="/about"
+                >
+                About
+                <span class="sr-only">(current)</span></a>
+      
+            </li>
+            <li class="nav-item ">
+              <a class="nav-link  " href="/contact"
+                >
+                Contact
+                <span class="sr-only">(current)</span></a>
+      
+            </li>
+            <li class="nav-item ">
+              <a class="nav-link  " href="/signup"
+                >
+                Sign Up
+                <span class="sr-only">(current)</span></a>
+      
+            </li>
+  
+          </ul>
+          <!-- <form class="d-flex">
+            <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+            <button class="btn btn-outline-success" type="submit">Search</button>
+          </form> -->
+        </div>
+      </div>
+    </nav>
+</header>
+
+<main class="flex-shrink-0">
+
+
+  <section class="jumbotron-fluid hero no-margin">
+    <div class="dark-fade">
+        <div class='container'>
+            <div class='row'>
+                <div class='col'>
+                    <h1>Press Releases</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section data-id='db45570f-703d-4beb-9165-81b7f6d3f81a' class="jumbotron-fluid pb"><div class="section-overlay"><div class="container"><div class='row'><div id='undefined' class='col-md-9'><div class="module" style="" data-id="9f3cb86b-983c-4d02-b656-847041d6e610" data-module="BLOG" data-content-type="blog" 
+      data-template-region=false data-template-page=false><div class="container gx-0">
+  <div class="row gap-y">
+
+
+  </div>
+</div>
+</div></div><div id='undefined' class='col-md-3'><div class="module" style="" data-id="90b21a88-4010-4892-8e4c-f043482228c6" data-module="TITLE" data-content-type="title" 
+      data-template-region=false data-template-page=false><h2 class="text-left ">Categories
+<a class="anchor" id="categories"></a>
+</>
+</div><div class="module" style="" data-id="e28e9e4f-7968-45ea-9c8d-402f66928fd5" data-module="TAXONOMY" data-content-type="taxonomy" 
+      data-template-region=false data-template-page=false><div class="list-group">
+
+    <a
+      href="/blog/corporate-news"
+      class="list-group-item list-group-item-action"
+    >Corporate News</a>
+    <a
+      href="/blog/press-releases"
+      class="list-group-item list-group-item-action"
+    >Press Releases</a>
+
+</div></div></div></div></div></div></section>
+
+</main>
+
+<footer class="footer mt-auto py-3 bg-light">
+  <div class="container text-center">
+    <span class="text-muted"><a href="/privacy">Privacy Policy</a> | <a href="/terms">Terms & Conditions</a>
+    </span>
+  </div>
+</footer>
+
+<script src="/assets/js/combined-0.5.4.js"></script>
+      
+  </body>
+</html>
